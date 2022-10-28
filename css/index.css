@@ -131,6 +131,10 @@ body {
     .header__top-title {
         font-size: 32px;
     }
+
+    .header__title {
+        font-size: 7vw;
+    }
     .form__top {
         max-width: 370px;
     }
